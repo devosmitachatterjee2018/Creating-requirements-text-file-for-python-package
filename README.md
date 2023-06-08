@@ -14,8 +14,6 @@
 
 **Step 7:** requirements.txt file will appear in the package folder.
 
-**Step 8:** requirements.txt file will appear in the package folder.
-
-**Step 9:** Deactivate the virtual environment by typing ```deactivate```
+**Step 8:** Deactivate the virtual environment by typing ```deactivate```
 
 
