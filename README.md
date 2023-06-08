@@ -12,7 +12,7 @@
 
 **Step 6:** Generate a requirements text file by typing ```pipreqs```
 
-**Step 7:** requirements.txt file will appear in the package folder.
+**Step 7:** The requirements.txt file will appear in the package folder.
 
 **Step 8:** Deactivate the virtual environment by typing ```deactivate```
 
